@@ -14,7 +14,7 @@ let password2El = document.querySelector("#password2");
 // initial state
 let generated = false;
 
-let inputLength = document.querySelector("#input-length")
+let inputLength = document.querySelector("#num-of-chars")
 
 // function to generate the new passwords
 function generatePassword() {
