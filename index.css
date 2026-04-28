@@ -130,7 +130,9 @@ Rounded sliders
     border-radius: 50%;
 } */
 
-.toggle {
+/* toggle 2 */
+
+/* .toggle {
     width: 60px;
     height: 30px;
     background-color: #ccc;
@@ -163,7 +165,7 @@ switch:checked + .toggle::before {
     -webkit-transform: translateX(30px);
     -ms-transform: translateX(30px);
     transform: translateX(30px);
-}
+} */
 
 #generate-password {
     color: white;
