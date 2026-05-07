@@ -38,6 +38,12 @@ body {
     color: lightgray;
 }
 
+.input-uppercase {
+    color: lightgray;
+    margin-top: 20px;
+    margin-bottom: 8px;
+}
+
 
 #ask-length {
     margin-top: 20px;

@@ -20,7 +20,10 @@
                     <p id="ask-length">How many characters do you want in your password?</p>
                     <input id="num-of-chars" type="number" placeholder="Enter length" min="8" max="15" step="1">
                 </div>
-                
+
+                <input type="radio" id="include-uppercase" name="options" value="uppercase">
+                <label class="input-uppercase" for="include-uppercase">Include uppercase letters</label>
+
                 <button id="generate-password" onclick="generatePassword()">Generate passwords</button>
             </div>
 
